@@ -1,6 +1,6 @@
-# aprendendo sobre operadores de igualdade
+# Aprendendo sobre operadores de igualdade
 
-## tipos
+## Tipos
 
 > - == para comparar igualdade
 >
