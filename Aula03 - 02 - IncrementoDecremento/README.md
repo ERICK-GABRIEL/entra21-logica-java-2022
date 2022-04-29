@@ -1,6 +1,6 @@
 /.metadata/# aprendendo sobre incremento e decremento
 
-## formas
+## Formas
 
 - pre incremento ou pre decremento
 - pos incremento ou pos decremento

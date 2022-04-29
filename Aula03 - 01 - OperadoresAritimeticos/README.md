@@ -1,6 +1,6 @@
-# aprendendo sobre operadores aritméticos
+# Aprendendo sobre operadores aritméticos
 
-## tipos
+## Tipos
 
 - + adição
 - - subtração
@@ -8,9 +8,9 @@
 - / divisão
 - % resto da divisão
 
-# aprendendo sobre constantes
+# Aprendendo sobre constantes
 
-## conceito
+## Conceito
 
 > os operadores aritiméticos realizam operações matemáticas entre variaveis ou valores 
  

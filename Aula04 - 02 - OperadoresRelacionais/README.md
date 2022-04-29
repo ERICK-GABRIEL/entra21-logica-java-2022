@@ -1,6 +1,6 @@
-# aprendendo sobre operadores relacionais
+# Aprendendo sobre operadores relacionais
 
-## tipos
+## Tipos
 
 > (<) menor que (essa comparação não verifica se o numero é igual tbm)
 > 

@@ -1,6 +1,6 @@
-# aprendendo sobre variaveis
+# Aprendendo sobre variaveis
 
-## tipos
+## Tipos
 
 - byte
 - short

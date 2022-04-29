@@ -1,6 +1,6 @@
-# aprendendo sobre constantes
+# Aprendendo sobre constantes
 
-## conceito
+## Conceito
 
 > criamos um constante ao transformar uma variavel adiconando final antes da declaração da variavel
 > exemplo:

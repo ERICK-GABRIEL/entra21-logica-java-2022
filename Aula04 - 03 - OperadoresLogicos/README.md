@@ -1,6 +1,6 @@
-# aprendendo sobre operadores lógicos (esclusivo para booleans)
+# Aprendendo sobre operadores lógicos (esclusivo para booleans)
 
-## tipos
+## Tipos
 
 > - E AND && = (comparação entre booleans) mais restritivos conforme a tabela verdade
 
