@@ -1,6 +1,6 @@
-# aprendendo sobre condicional if
+# Aprendendo sobre condicional if
 
-## serve para tomar decisões no codigo com base em condições
+## Serve para tomar decisões no codigo com base em condições
 
 ````java
 if(condicao){
