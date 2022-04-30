@@ -1,6 +1,6 @@
-# aprendendo sobre operador ternário
+# Aprendendo sobre operador ternário
 
-## if compacto
+## If compacto
 
 > recomendado para pequenas decisoes onde resulta em atribuições simples
 > quero atribuir valor em uma variavel com base em uma condição (se minha condição?"retorne isso quando true":"retorne isso quando false")

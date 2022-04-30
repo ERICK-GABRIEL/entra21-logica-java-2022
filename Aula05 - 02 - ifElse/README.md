@@ -1,6 +1,6 @@
-# aprendendo sobre ifElse
+# Aprendendo sobre ifElse
 
-## conceito
+## Conceito
 
 > Quando há duas possibilidades de execução com base na condição é necessário definir o escopo do else
 
