@@ -9,8 +9,8 @@ public class Main {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		System.out.println("BEM VINDO AO RESTAURANTE JAPAN FOOD");
-		System.out.println("Para agilizar seu atendimento informe o que deseja pedir");
+		System.out.println("BEM VINDO AO RESTAURANTE JAPAN FOOD :)");
+		System.out.println("Para agilizar seu atendimento informe o que deseja pedir:\n");
 		System.out.println("Sashimi");
 		System.out.println("Sushi");
 		System.out.println("Gyoza");
@@ -47,8 +47,10 @@ public class Main {
 			default:
 				System.out.println("Desculpe, estamos em falta.");
 				break;
-			
+		}
 	
+
+				
 			
 			
 			
@@ -61,7 +63,7 @@ public class Main {
 			
 			
 		
-		}
+		
 
 	}
 
