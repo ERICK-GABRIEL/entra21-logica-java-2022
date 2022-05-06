@@ -61,25 +61,25 @@ public class Main {
 			
 			System.out.println("Vamos criar o seu currículo:");
 			System.out.println("Digite seu nome:");
-			nome = entrada.next();
+			nome = entrada.nextLine();
 			
 			System.out.println("Digite sua idade: ");
-			idade = entrada.next();
+			idade = entrada.nextLine();
 			
 			System.out.println("Digite sua cidade/estado: ");
-			cidade = entrada.next();
+			cidade = entrada.nextLine();
 			
 			System.out.println("Digite sua formação/ano: ");
-			formacao = entrada.next();
+			formacao = entrada.nextLine();
 			
 			System.out.println("Digite a empresa que você trabalha atualmente: ");
-			empresa = entrada.next();
+			empresa = entrada.nextLine();
 			
 			System.out.println("Digite seu cargo: ");
-			cargo = entrada.next();
+			cargo = entrada.nextLine();
 			
 			System.out.println("Digite a data de inicio na empresa: ");
-			dataInicio = entrada.next();
+			dataInicio = entrada.nextLine();
 			
 			criarCurriculo(nome, cidade, formacao, empresa, cargo, dataInicio, idade);
 			break;
