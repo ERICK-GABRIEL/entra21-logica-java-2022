@@ -60,6 +60,11 @@ public class Main {
 		}
 	}
 	
+	private static void novoCalculo() {
+		// TODO Auto-generated method stub
+		
+	}
+
 	public static float somar(float numeroA, float numeroB) {
 		return numeroA + numeroB;
 	}
