@@ -1,8 +1,8 @@
-/.metadata/# aprendendo sobre incremento e decremento
+# Aprendendo sobre Incremento e Decremento
 
 ## Formas
 
-- pre incremento ou pre decremento
-- pos incremento ou pos decremento
-- compacta
-- didatica  
+- Pré Incremento ou Pré Decremento
+- Pós Incremento ou Pós Decremento
+- Compacta
+- Didática  

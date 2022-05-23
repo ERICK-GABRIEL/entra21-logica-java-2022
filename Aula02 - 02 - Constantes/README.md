@@ -1,12 +1,14 @@
-# Aprendendo sobre constantes
+# Aprendendo sobre Constantes
 
 ## Conceito
 
-> criamos um constante ao transformar uma variavel adiconando final antes da declaração da variavel
-> exemplo:
+> Criamos um constante ao transformar uma variavel adiconando final antes da declaração da variavel
+>
+> Exemplo:
 > byte idade=10;
 > final byte IDADE=10;
-> após essa mudança, não será mais permitido alterar o seu valor, seja no codigo ou com interação com o usuário
+>
+> Após essa mudança, não será mais permitido alterar o seu valor, seja no codigo ou com interação com o usuário
 
-> ### importante
-> o padrão de nomenclatura de uma constante é CAPS pois cria um destaque visual no codigo 
+> ### Importante
+> O padrão de nomeclatura de uma constante é CAPS pois cria um destaque visual no código 

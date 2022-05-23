@@ -1,6 +1,6 @@
-# Aprendendo sobre uso de FunÃ§Ãµes
+# Aprendendo sobre uso de Funções
 
-- As funÃ§Ãµes nos permitem organizar o cÃ³digo de tal forma que serÃ¡ possÃ­vel reutilizar o mesmo cÃ³digo sem a necessidade de escreve-lo novamente
+- As funções nos permitem organizar o código de tal forma que será possível reutilizar o mesmo código sem a necessidade de escreve-lo novamente
 
 ## Exemplos 
 

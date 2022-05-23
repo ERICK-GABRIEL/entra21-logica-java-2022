@@ -1,12 +1,12 @@
 # Exercicio - Fun√ß√£o
 
-- Fa√ßa um programa que tenha um menu para selecionar entre:
+- FaÁa um programa que tenha um menu para selecionar entre:
 ````
-    - Uma calculadora com menu para as 4 opera√ß√µes basicas.
-    - Um gerador de curr√≠culo.
+    - Uma calculadora com menu para as 4 operaÁıes b·sicas.
+    - Um gerador de curriculo.
 ````
 
 
-## Aplica√ß√£o em uso.
+## AplicaÁ„o em uso.
 
 ![Gif Exercicio](./img/exercicio.gif)

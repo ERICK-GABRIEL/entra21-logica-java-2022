@@ -2,7 +2,7 @@
 
 ## Tipos
 
-> - == para comparar igualdade (= é para atribuição ) (==  para comparação)
+> - == Para comparar igualdade (= é para atribuição ) (== é para comparação)
 > 
-> - != para comparar desigualdade (! é a negação da igualdade)
+> - != Para comparar desigualdade (! é a negação da igualdade)
 > 

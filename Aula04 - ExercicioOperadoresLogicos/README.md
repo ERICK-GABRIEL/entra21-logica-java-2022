@@ -1,8 +1,9 @@
-# Exercicio - operadores lÃ³gicos
+# Exercicio - Operadores Lógicos
 
-- FaÃ§a um programa que capture 3 informaÃ§Ãµes o nome,  idade e altura. Deve ser informado se o usuÃ¡rio Ã© maior ou igual que 170cm E tem Ã© maior de idade (utilizar o &&).
-- FaÃ§a um programa que capture 3 informaÃ§Ãµes o nome,  idade e altura. Deve ser informado se o usuÃ¡rio Ã© maior ou igual que 170cm OU tem Ã© maior de idade (utilizar o ||).
+> - Faça um programa que capture 3 informações: o nome,  idade e altura. Deve ser informado se o usuário é maior ou igual que 170cm E se é maior de idade (utilizar o &&).
+>
+> - Faça um programa que capture 3 informações o nome,  idade e altura. Deve ser informado se o usuário é maior ou igual que 170cm OU é maior de idade (utilizar o ||).
 
-## AplicaÃ§Ã£o em uso.
+## Aplicação em uso.
 
 ![Gif Exercicio](./gif/gifExercicio.gif)

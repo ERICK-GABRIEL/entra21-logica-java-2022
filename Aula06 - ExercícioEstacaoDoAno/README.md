@@ -1,7 +1,6 @@
 # Exercicio - Switch
 
-- Exiba em tela uma lista de opÃ§Ãµes para o usuÃ¡rio escolher e para cada escolha retornar uma mensagem diferente. 
+- Exiba em tela uma lista de opções para o usuário escolher e para cada escolha retornar uma mensagem diferente. 
 
-## AplicaÃ§Ã£o em uso.
-
+## Aplicação em uso.
 ![Gif Exercicio](./img/exercicio.gif)

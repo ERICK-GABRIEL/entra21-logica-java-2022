@@ -1,8 +1,8 @@
 # Aprendendo sobre uso de Condicionais Switch
 
-- √â uma forma de tomar decis√µes usando mais de uma condi√ß√£o.
-- Usado para decis√µes diretas.
-- √â uma forma de economizar recursos.
+- … uma forma de tomar decisıes usando mais de uma condiÁ„o.
+- Usado para decisıes diretas.
+- … uma forma de economizar recursos.
 
 ## Formas de uso
 

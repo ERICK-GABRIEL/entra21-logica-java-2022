@@ -1,9 +1,9 @@
 # Aprendendo sobre uso do For
 
-- Ideal para repetiÃ§Ãµes com base na quatidade.
-- VariÃ¡vel com ponto de Ã­nicio.
-- CondiÃ§Ã£o de permanencia.
-- Incremento ou decremento , pensando na condiÃ§Ã£o de permanÃªncia.
+- Ideal para repetições com base na quatidade.
+- Variável com ponto de ínicio.
+- Condição de permanencia.
+- Incremento ou decremento , pensando na condição de permanencia.
 
 ## Exemplos 
 

@@ -2,11 +2,11 @@
 
 ## Tipos
 
-> (<) menor que (essa comparação não verifica se o numero é igual tbm)
+> (<) Menor que (essa comparação não verifica se o numero é igual também)
 > 
-> (<=) menor ou igual que (essa comparação verifica se o numero também é igual)
+> (<=) Menor ou igual que (essa comparação verifica se o numero também é igual)
 > 
-> (>) maior que (essa comparação não verifica se o numero é igual tbm)
+> (>) Maior que (essa comparação não verifica se o numero é igual também)
 > 
-> (>=) maior ou igual que (essa comparação verifica se o numero também é igual)
+> (>=) Maior ou igual que (essa comparação verifica se o numero também é igual)
 > 

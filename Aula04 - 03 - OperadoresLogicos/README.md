@@ -1,4 +1,4 @@
-# Aprendendo sobre operadores lógicos (esclusivo para booleans)
+# Aprendendo sobre operadores lógicos (exclusivo para booleans)
 
 ## Tipos
 
